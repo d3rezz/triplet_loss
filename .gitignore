@@ -1,0 +1,9 @@
+experiments/*/*
+!experiments/*/params.json
+*.pyc
+*.swp
+*.vscode
+data/*
+!data/split_data.py
+!data/mnist_reader.py
+tests/
