@@ -39,6 +39,11 @@ data/
     val/
 ```
 
+Now split the dataset into train/val/test by running the follwing command from inside the data folder:
+```
+$ python split_data.py
+```
+
 # Running the code
 For training the models use:
 
